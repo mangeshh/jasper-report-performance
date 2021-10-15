@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+basic_test_pdf_converter_6000U_600R_1L_195_CL:HTTP Request,6000,450670,93270,738117,175290.80,0.000%,4.54075,0.60,0.94,136.0
+TOTAL,6000,450670,93270,738117,175290.80,0.000%,4.54075,0.60,0.94,136.0

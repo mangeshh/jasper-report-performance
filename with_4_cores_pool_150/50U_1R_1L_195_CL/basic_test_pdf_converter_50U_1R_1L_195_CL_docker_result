@@ -1,0 +1,24 @@
+CONTAINER ID NAME CPU % MEM USAGE / LIMIT MEM % NET I/O BLOCK I/O PIDS
+7af54c139f9e elated_faraday 2.09% 2.762GiB / 8GiB 34.52% 9.11GB / 4.86GB 0B / 0B 40
+7af54c139f9e elated_faraday 332.28% 2.768GiB / 8GiB 34.59% 9.11GB / 4.87GB 0B / 0B 147
+7af54c139f9e elated_faraday 391.71% 2.747GiB / 8GiB 34.34% 9.12GB / 4.87GB 0B / 0B 107
+7af54c139f9e elated_faraday 0.72% 2.747GiB / 8GiB 34.33% 9.12GB / 4.87GB 0B / 0B 80
+7af54c139f9e elated_faraday 0.76% 2.746GiB / 8GiB 34.33% 9.12GB / 4.87GB 0B / 0B 80
+7af54c139f9e elated_faraday 0.65% 2.746GiB / 8GiB 34.33% 9.12GB / 4.87GB 0B / 0B 80
+7af54c139f9e elated_faraday 0.80% 2.746GiB / 8GiB 34.32% 9.12GB / 4.87GB 0B / 0B 76
+7af54c139f9e elated_faraday 0.34% 2.746GiB / 8GiB 34.32% 9.12GB / 4.87GB 0B / 0B 76
+7af54c139f9e elated_faraday 0.21% 2.273GiB / 8GiB 28.41% 20.2GB / 10.8GB 0B / 0B 41
+7af54c139f9e elated_faraday 335.38% 2.297GiB / 8GiB 28.72% 20.2GB / 10.8GB 0B / 0B 140
+7af54c139f9e elated_faraday 401.45% 2.323GiB / 8GiB 29.03% 20.2GB / 10.8GB 0B / 0B 77
+7af54c139f9e elated_faraday 0.27% 2.324GiB / 8GiB 29.05% 20.2GB / 10.8GB 0B / 0B 77
+7af54c139f9e elated_faraday 0.31% 2.324GiB / 8GiB 29.05% 20.2GB / 10.8GB 0B / 0B 77
+7af54c139f9e elated_faraday 0.24% 2.898GiB / 8GiB 36.22% 34.5GB / 18.5GB 0B / 0B 41
+7af54c139f9e elated_faraday 307.90% 2.904GiB / 8GiB 36.30% 34.5GB / 18.5GB 0B / 0B 148
+7af54c139f9e elated_faraday 401.20% 2.883GiB / 8GiB 36.04% 34.5GB / 18.5GB 0B / 0B 82
+7af54c139f9e elated_faraday 0.21% 2.882GiB / 8GiB 36.03% 34.5GB / 18.5GB 0B / 0B 77
+7af54c139f9e elated_faraday 0.25% 2.882GiB / 8GiB 36.03% 34.5GB / 18.5GB 0B / 0B 77
+7af54c139f9e elated_faraday 0.31% 2.882GiB / 8GiB 36.03% 34.5GB / 18.5GB 0B / 0B 77
+7af54c139f9e elated_faraday 0.18% 2.882GiB / 8GiB 36.03% 34.5GB / 18.5GB 0B / 0B 77
+7af54c139f9e elated_faraday 0.19% 2.882GiB / 8GiB 36.03% 34.5GB / 18.5GB 0B / 0B 77
+7af54c139f9e elated_faraday 0.17% 2.882GiB / 8GiB 36.03% 34.5GB / 18.5GB 0B / 0B 77
+7af54c139f9e elated_faraday 0.31% 2.882GiB / 8GiB 36.03% 34.5GB / 18.5GB 0B / 0B 77

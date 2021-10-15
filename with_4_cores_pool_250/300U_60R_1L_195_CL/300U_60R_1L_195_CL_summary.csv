@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+basic_test_pdf_converter_300U_60R_1L_195_CL:HTTP Request,300,13859,1639,23042,4926.53,0.000%,4.28927,0.57,0.88,136.0
+TOTAL,300,13859,1639,23042,4926.53,0.000%,4.28927,0.57,0.88,136.0

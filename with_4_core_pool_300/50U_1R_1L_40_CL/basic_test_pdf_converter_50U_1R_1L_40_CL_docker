@@ -1,0 +1,20 @@
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7af54c139f9e   elated_faraday   2.27%     2.057GiB / 8GiB     25.71%    7.12GB / 3.77GB   0B / 0B     39
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7af54c139f9e   elated_faraday   390.84%   2.067GiB / 8GiB     25.83%    7.12GB / 3.77GB   0B / 0B     72
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7af54c139f9e   elated_faraday   0.27%     2.073GiB / 8GiB     25.91%    7.12GB / 3.77GB   0B / 0B     71
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7af54c139f9e   elated_faraday   0.23%     2.063GiB / 8GiB     25.79%    7.12GB / 3.77GB   0B / 0B     70
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7af54c139f9e   elated_faraday   0.30%     2.063GiB / 8GiB     25.79%    7.12GB / 3.77GB   0B / 0B     70
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7af54c139f9e   elated_faraday   0.33%     2.063GiB / 8GiB     25.79%    7.12GB / 3.77GB   0B / 0B     70
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7af54c139f9e   elated_faraday   0.29%     2.063GiB / 8GiB     25.79%    7.12GB / 3.77GB   0B / 0B     70
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7af54c139f9e   elated_faraday   0.20%     2.063GiB / 8GiB     25.79%    7.12GB / 3.77GB   0B / 0B     70
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7af54c139f9e   elated_faraday   0.24%     2.063GiB / 8GiB     25.79%    7.12GB / 3.77GB   0B / 0B     70
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7af54c139f9e   elated_faraday   0.22%     2.063GiB / 8GiB     25.79%    7.12GB / 3.77GB   0B / 0B     70

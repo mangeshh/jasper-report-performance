@@ -1,0 +1,11 @@
+CONTAINER ID NAME CPU % MEM USAGE / LIMIT MEM % NET I/O BLOCK I/O PIDS
+7af54c139f9e elated_faraday 0.65% 2.763GiB / 8GiB 34.54% 9.11GB / 4.86GB 0B / 0B 40
+7af54c139f9e elated_faraday 78.63% 2.761GiB / 8GiB 34.51% 9.11GB / 4.86GB 0B / 0B 36
+7af54c139f9e elated_faraday 0.37% 2.761GiB / 8GiB 34.51% 9.11GB / 4.86GB 0B / 0B 36
+7af54c139f9e elated_faraday 0.38% 2.761GiB / 8GiB 34.51% 9.11GB / 4.86GB 0B / 0B 36
+7af54c139f9e elated_faraday 0.27% 2.761GiB / 8GiB 34.51% 9.11GB / 4.86GB 0B / 0B 36
+7af54c139f9e elated_faraday 0.59% 2.762GiB / 8GiB 34.52% 9.11GB / 4.86GB 0B / 0B 40
+7af54c139f9e elated_faraday 168.89% 2.762GiB / 8GiB 34.52% 9.11GB / 4.86GB 0B / 0B 40
+7af54c139f9e elated_faraday 0.67% 2.761GiB / 8GiB 34.52% 9.11GB / 4.86GB 0B / 0B 40
+7af54c139f9e elated_faraday 0.25% 2.761GiB / 8GiB 34.51% 9.11GB / 4.86GB 0B / 0B 36
+7af54c139f9e elated_faraday 0.31% 2.761GiB / 8GiB 34.51% 9.11GB / 4.86GB 0B / 0B 36

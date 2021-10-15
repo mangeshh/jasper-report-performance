@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+HTTP Request,93,117,105,161,11.13,0.000%,1.68137,0.22,0.35,136.0
+basic_test_pdf_converter_100U_60R_1L_20_CL:HTTP Request,7,118,107,163,18.81,0.000%,1.88071,0.25,0.39,136.0
+TOTAL,100,117,105,163,11.83,0.000%,1.67999,0.22,0.35,136.0

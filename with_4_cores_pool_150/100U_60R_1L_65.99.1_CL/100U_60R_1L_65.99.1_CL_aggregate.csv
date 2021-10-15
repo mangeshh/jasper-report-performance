@@ -1,0 +1,3 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+basic_test_pdf_converter_100U_60R_1L_65.99.1_CL:HTTP Request,100,143,136,176,193,488,85,556,0.000%,1.67980,0.22,0.35
+TOTAL,100,143,136,176,193,488,85,556,0.000%,1.67980,0.22,0.35
