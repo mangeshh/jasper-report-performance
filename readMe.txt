@@ -9,3 +9,6 @@ meaning -
 small size report - 20 credit lines
 large report - ~190 credit lines
 medium - ~40 credit lines.
+
+
+we did all evaluation on docker environement, with linux, java image and mysql was installed on local box.
