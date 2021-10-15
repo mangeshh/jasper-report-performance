@@ -5,6 +5,7 @@ meaning -
 
 50 users_in 1 second_10 loops_medium size - we are sending 50 requests (50 users) in 1 seconds and repeating for 10 times continuously and all expereiment done with medium size report.
 
+10U_1R_1L_20L - 10 users send requests (10 requests) in 1 second and with 20 credit lines(small file).
 
 small size report - 20 credit lines
 large report - ~190 credit lines
